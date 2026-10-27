@@ -1,0 +1,34 @@
+order_id,product,quantity,price,region,order_date
+1001,  laptop ,2.0,50000, south ,2026-01-03
+1002,Mouse,5.0,500,NORTH,2026-01-04
+1003,keyboard ,3.0,1500,East,2026-01-05
+1004,Monitor,2.0,12000,west,2026-01-06
+1002,Mouse,5.0,500,NORTH,2026-01-04
+1005,Phone,1.0,30000,South,2026-01-07
+1006,Tablet,4.0,18000,East,2026-01-08
+1007,Headphones,3.0,2500, north ,2026-01-09
+1008,Printer,1.0,8000,West,2026-01-10
+1009,Camera,2.0,45000,South,2026-01-11
+1010,Speaker,4.0,3000,East,2026-01-12
+1011,Charger,10.0,500,North,2026-01-13
+1012,Smartwatch,2.0,7000, west ,2026-01-14
+1013,Desk,1.0,15000,South,2026-01-15
+1014,Chair,2.0,6000,East,2026-01-16
+1015,Webcam,3.0,2500,North,2026-01-17
+1016,Microphone,2.0,4000,West,2026-01-18
+1017,Router,1.0,,South,2026-01-19
+1018, USB Cable ,8.0,250,north,2026-01-20
+1019,External SSD,2.0,9000,East,2026-01-21
+1020,Projector,1.0,not_available,West,bad_date
+1021,Tablet,2.0,18000,,2026-01-23
+1022,Phone,,30000,South,2026-01-24
+1023,Monitor,3.0,12000,North,2026-01-25
+1024,Laptop,1.0,50000,East,2026-01-26
+1025,Mouse,6.0,500,West,2026-01-27
+1026,Keyboard,2.0,1500,South,2026-01-28
+1027,Printer,2.0,8000,North,2026-01-29
+1028,Camera,1.0,45000,East,2026-01-30
+1029,Speaker,5.0,3000,West,2026-01-31
+1030,Gaming PC,1.0,250000,South,2026-02-01
+1031,Office Chair,50.0,6000,East,2026-02-02
+1032,Keyboard,2.0,1500,  NORTH  ,2026-02-03
