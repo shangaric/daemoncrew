@@ -1,0 +1,19 @@
+Order_ID,Customer_ID,Product,Order_Date,Order_Amount,Status
+5001,101,Laptop,2026-01-05,58999.0,Delivered
+5002,102,Office Chair,2026-01-08,8499.5,Delivered
+5003,103,Wireless Mouse,2026-01-12,1299.0,Shipped
+5004,101,Monitor,2026-01-15,15999.99,Delivered
+5005,104,Laptop Pro,2026-01-20,78999.0,Processing
+5006,105,Keyboard,2026-02-02,2499.0,Delivered
+5007,106,Desk,2026-02-07,12450.75,Shipped
+5008,103,Laptop Sleeve,2026-02-10,1899.0,Delivered
+5009,108,Monitor,2026-02-15,17999.0,Cancelled
+5010,109,Webcam,2026-02-18,3999.99,Delivered
+5011,102,Laptop Stand,2026-03-01,3299.0,Delivered
+5012,106,Headphones,2026-03-04,6499.5,Shipped
+5013,107,Tablet,2026-03-10,24999.0,Processing
+5014,110,Phone,2026-03-12,32999.0,Delivered
+5015,105,Laptop,2026-03-16,62999.0,Delivered
+5016,104,USB Hub,2026-03-20,1799.5,Shipped
+5017,111,Printer,2026-03-25,11999.0,Processing
+5018,111,Ink Cartridge,2026-03-27,899.0,Delivered
